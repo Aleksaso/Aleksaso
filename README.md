@@ -1,20 +1,18 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
+<h4>Welcome to my page!</h4>
+<h4>I'm Aleks, studying in</h4>
+<img alt="React" src="https://i.postimg.cc/dQGwPTxf/42logo.png)](https://postimg.cc/HjWfbjH0)" />
+<h4>Málaga, Spain</h4> 
 
 ```js
 +--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--+
-| Welcome to my page!                                                 |
-| I'm Aleks, studying in 42 Málaga, Spain                             |
-| code: [Typescript, HTML, CSS, C, C++],                              |	
+| Lenguajes {                                                         |                            
+| code: [ C, C++, HTML, Typescript];                                  |	
 | interested in learning:[React,  Node, Storybook, Styled-Components, |
-|                          Jest, Docker],                             |                            
+|                          Jest, Docker], CSS, }                      |                            
 +--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--+
 ```
-I'm Aleks, studying in
-
-<img alt="React" src="https://i.postimg.cc/dQGwPTxf/42logo.png)](https://postimg.cc/HjWfbjH0)" />
-
-Málaga, Spain 
-<h3>Tools For Coding</h3>
+<h4>Tools For Coding</h4>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
