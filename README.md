@@ -9,6 +9,11 @@
 |                          Jest, Docker],                             |                            
 +--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--+
 ```
+I'm Aleks, studying in
+
+<img alt="React" src="https://i.postimg.cc/dQGwPTxf/42logo.png)](https://postimg.cc/HjWfbjH0)" />
+
+Málaga, Spain 
 <h3>Tools For Coding</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
