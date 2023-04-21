@@ -6,10 +6,10 @@
 
 ```js
 +--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--+
-| Lenguajes {                                                         |                            
+| Programming Language {                                              |                            
 | code: [ C, C++, HTML, Typescript];                                  |	
-| interested in learning:[React,  Node, Storybook, Styled-Components, |
-|                          Jest, Docker], CSS, }                      |                            
+| Interested in learning:[React,  NODE, Storybook, Styled-Components, |
+|                Javascript, Python, Jest, Docker], CSS, }            |                            
 +--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--+
 ```
 <h4>Tools For Coding</h4>
