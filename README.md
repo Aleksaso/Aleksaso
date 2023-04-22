@@ -4,7 +4,6 @@
 <p>
 <img alt="42logo" src="https://i.postimg.cc/qv10qXzL/42logo.png)](https://postimg.cc/18VbYF0n)" />
 <img alt="void" src="https://i.postimg.cc/4NZT1FcP/void-m.png)](https://postimg.cc/yWf51jv3)" />
- <!--
 <h4>Málaga, Spain</h4> 
 
 ```js
@@ -15,6 +14,7 @@
 |                Javascript, Python, Jest, Docker], CSS, }            |                            
 +--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--+
 ```
+
 <h4>Tools For Coding</h4>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
