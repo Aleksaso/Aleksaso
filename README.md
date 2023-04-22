@@ -1,7 +1,10 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 <h4>Welcome to my page!</h4>
 <h4>I'm Aleks, studying in</h4>
-<img alt="React" src="https://i.postimg.cc/dQGwPTxf/42logo.png)](https://postimg.cc/HjWfbjH0)" />
+<p>
+<img alt="42logo" src="https://i.postimg.cc/j5Pq9Y23/42logo.png)](https://postimg.cc/FdFQdqj0)" />
+<img alt="void" src="https://i.postimg.cc/6QV11HwL/void.png)](https://postimg.cc/f3LKVfVJ)" />
+ <!--
 <h4>Málaga, Spain</h4> 
 
 ```js
