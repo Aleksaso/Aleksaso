@@ -2,8 +2,8 @@
 <h4>Welcome to my page!</h4>
 <h4>I'm Aleks, studying in</h4>
 <p>
-<img alt="42logo" src="https://i.postimg.cc/j5Pq9Y23/42logo.png)](https://postimg.cc/FdFQdqj0)" />
-<img alt="void" src="https://i.postimg.cc/6QV11HwL/void.png)](https://postimg.cc/f3LKVfVJ)" />
+<img alt="42logo" src="https://i.postimg.cc/qv10qXzL/42logo.png)](https://postimg.cc/18VbYF0n)" />
+<img alt="void" src="https://i.postimg.cc/4NZT1FcP/void-m.png)](https://postimg.cc/yWf51jv3)" />
  <!--
 <h4>Málaga, Spain</h4> 
 
@@ -41,3 +41,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <!--
 **Aleksaso/Aleksaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
