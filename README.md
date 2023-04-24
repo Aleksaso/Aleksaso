@@ -11,7 +11,7 @@
 | Programming Language {                                              |                            
 | code: [ C, C++, HTML];                                              |	
 | Interested in learning:[React,  NODE, Storybook, Styled-Components, |
-| CSS, Typescript, Javascript, Python, Jest, Docker]}            |                            
+| CSS, Typescript, Javascript, Python, Jest, Docker]}                 |                            
 +--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--+
 ```
 
