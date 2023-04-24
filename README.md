@@ -9,9 +9,9 @@
 ```js
 +--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--+
 | Programming Language {                                              |                            
-| code: [ C, C++, HTML, Typescript];                                  |	
+| code: [ C, C++, HTML];                                              |	
 | Interested in learning:[React,  NODE, Storybook, Styled-Components, |
-|                Javascript, Python, Jest, Docker], CSS, }            |                            
+|    Typescript, Javascript, Python, Jest, Docker], CSS, }            |                            
 +--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--+
 ```
 
