@@ -10,7 +10,7 @@
 +--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--+
 | Programming Language {                                              |                            
 | code: [ C, C++, HTML];                                              |	
-| Interested in learning:[React,  NODE, Storybook, Styled-Components, |
+| Interested in learning:[React, NODE, Storybook, Styled-Components,  |
 | CSS, Typescript, Javascript, Python, Jest, Docker]}                 |                            
 +--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--+
 ```
@@ -41,7 +41,3 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <!--
 **Aleksaso/Aleksaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
