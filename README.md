@@ -14,7 +14,7 @@
 | CSS, Typescript, Javascript, Python, Jest, Docker]}                 |                            
 +--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--+
 ```
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h4>Tools what do I want to learn</h4>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -41,3 +41,4 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <!--
 **Aleksaso/Aleksaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
